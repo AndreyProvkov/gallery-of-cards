@@ -1,2 +1,5 @@
 # gallery-of-cards
-Learn project
+## Using technology
+- HTML
+- CSS
+- JS
